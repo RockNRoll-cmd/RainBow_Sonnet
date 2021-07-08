@@ -10,3 +10,5 @@ Make no mistake
 checking if the git push will suffice without the git commit!
 
 To check if commits are being shown - 8th
+
+To check if commits are being displayed - 9th
